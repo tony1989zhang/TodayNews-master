@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_banner.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\splash_banner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_text_2.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\load_text_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_text_3.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\load_text_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_text_4.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\load_text_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_text_1.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\load_text_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\viewicon_splash.png",
+        "source": "D:\\AndroidStudioProjects\\TodayNews-master\\app\\src\\main\\res\\drawable-hdpi\\viewicon_splash.png"
+    }
+]
